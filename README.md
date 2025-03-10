@@ -30,9 +30,11 @@ Mocha/Chai for automated tests and assertions in JavaScript
 
 K6: Performance testing 
 
+
+
  
 
-**Test environment:   **
+**Test environment**
 
 Environment: Staging 
 
@@ -40,9 +42,10 @@ Dependencies: Installed app on the company used for testing, in draft mode with 
 
 All mock data (created resources, users, companies, branches) required for the tests, is deleted after the execution of the tests 
 
+
  
 
-**Test Scope and Coverage: **
+**Test scope and coverage**
 
  
 
@@ -187,13 +190,16 @@ Tested API Endpoints:
 -Delete a group service category 
 
 
-Test Cases: 
+
+
+
+**Test Cases:**
 
 Positive test cases: Ensuring the entire flow of the endpoints with valid data is running with correct status code and no errors. 
 (Table with described TC, Pre-conditions, Expected and actual result)
 
 
-Exit Criteria 
+**Exit Criteria**
 
 Pass Criteria: All API functionalities for the entire flow must pass with no errors. 
 
