@@ -198,6 +198,9 @@ Tested API Endpoints:
 Positive test cases: Ensuring the entire flow of the endpoints with valid data is running with correct status code and no errors. 
 (Table with described TC, Pre-conditions, Expected and actual result)
 
+**Test Coverage**
+-237 passing out of 237
+-Results report generated with Mochawesome html reporter.
 
 **Exit Criteria**
 
